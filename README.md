@@ -1,2 +1,2 @@
 # frendr
-"When that's all you need."
+When that's all you need.
